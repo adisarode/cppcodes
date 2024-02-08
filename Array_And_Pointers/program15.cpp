@@ -21,9 +21,11 @@ int main() {
 
 	for(int i=0;i<size;i++){
 	
-		if(search == arr[i])
+		if(search == arr[i]){
 		
 			flag=1;
+			break;
+		}
 		
 	}
 	if(flag==1)
