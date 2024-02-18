@@ -2,6 +2,7 @@
 #include<iostream>
 
 using namespace std;
+
 int main() {
 
 	char carr1[3] = {'A','B','c'};
