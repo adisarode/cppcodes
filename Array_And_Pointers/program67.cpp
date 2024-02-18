@@ -17,5 +17,4 @@ int main() {
 	cout<<**ptr3<<endl;
 
 	return 0;
-
 }
